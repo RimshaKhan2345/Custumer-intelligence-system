@@ -56,5 +56,5 @@ This dataset is clean, easy to understand, and perfectly suited for unsupervised
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/unsupervised-learning-project.git
+git clone https://github.com/RimshaKhan2345/unsupervised-learning-project.git
 cd unsupervised-learning-project
